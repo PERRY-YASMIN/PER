@@ -25,7 +25,7 @@ break;
 }
 if(index==size)
 {
-printf("Key element not found");
+printf("Key element not at all found");
 }
 return 0;
 }
