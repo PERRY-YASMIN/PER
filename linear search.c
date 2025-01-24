@@ -18,8 +18,6 @@ for(index=0;index<size;index++)
 {
 if(arr[index]==key)
 {// comparing each element with the key element
-printf("Key element found at index %d",index);
-break;
 }// cursor out of the loop when a key element found
 
 }
