@@ -1,4 +1,3 @@
-// linear search program in C using array.
 #include<stdio.h>
 int main()
 {
